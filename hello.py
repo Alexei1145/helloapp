@@ -7,4 +7,4 @@ def greetBlack():
 
 
 
-print("hello everyone")
+print("HeLLo everyone")
